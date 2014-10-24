@@ -3,7 +3,8 @@
 
 ####Installation
 - Download this repo
-- Run grive-install.sh script `chmod 711 grive-install.sh; ./grive-install.sh`
+- Run grive-install.sh script
+	`chmod 711 grive-install.sh; ./grive-install.sh`
 - Follow on-screen instructions
 
 
