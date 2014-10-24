@@ -8,8 +8,6 @@
 - Follow on-screen instructions
 
 
-
-
 ####How to use that
-
+- For sync on request, go to `~/Google Drive` and write `grive`
 
