@@ -9,5 +9,15 @@
 
 
 ####How to use that
-- For sync on request, go to `~/Google Drive` and write `grive`
+
+#####Manual use:
+- For sync on request, open terminal, go to `~/Google Drive` and write `grive`
+
+#####No GUI, crontab sync
+- Add `~/.gsync/syncron.sh` to your crontab
+
+#####GUI
+- Find Grive Setup in your menu, open it and follow instructions
+- Find Google Drive Indicator and turn AutoSync on
+
 
