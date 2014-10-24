@@ -14,5 +14,6 @@ echo "Go to yout $HOME/Google Drive directory and run initial setup and sync"
 cd ~/Google\ Drive
 gdrive -a
 
+
 exit 0;
 
